@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello there! I'm Pratham Shetty, and welcome to my GitHub page. Currently, I'm pursuing my B.Tech in Computer Science and Engineering at Manipal Institute of Technology, Manipal, in my third year.<br><br>As a passionate computer science student, I am thrilled to be part of this community. My journey in computer science has been one of fascination and discovery, driven by a relentless curiosity about technology and its applications in shaping our world. From coding algorithms to designing systems, I find joy in exploring the depths of computer science and embrace each opportunity to learn and grow.<br><br>Beyond the digital realm, I enjoy playing basketball, cricket, online games, and drawing.<br><br>I'm excited to connect with fellow computer enthusiasts, exchange ideas, and collaborate on projects that harness the power of technology for positive impact.
+Hello there! I'm Pratham Shetty, and welcome to my GitHub page. I'm currently pursuing my B.Tech in Computer Science and Engineering at Manipal Institute of Technology, Manipal, in my final year.
+
+I recently worked as a Software Development Engineer Intern at Western Digital, where I built C#-based hardware/software abstraction models for HDD components — including a SATA protocol model and contributions to a NAND Controller IP model — working closely with Firmware and Client teams to bridge hardware and software behavior. My journey in computer science has been driven by a curiosity about how software can model and interact with real-world systems, from low-level hardware protocols to full-stack applications like HealthHuddle, a patient support platform I built with a practicing psychiatrist, and CRZ, a land regulation app I developed for the Udupi District Deputy Commissioner's Office.
+
+Beyond the digital realm, I enjoy playing basketball, cricket, online games, and drawing. I'm excited to connect with fellow computer enthusiasts, exchange ideas, and collaborate on projects that harness the power of technology for positive impact.
 
 
 ## 🌐 Socials:
