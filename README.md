@@ -1,5 +1,5 @@
 # 💫 About Me:
-include that i have 8 months of experience thereHello there! I'm Pratham Shetty, and welcome to my GitHub page. I'm currently pursuing my B.Tech in Computer Science and Engineering at Manipal Institute of Technology, Manipal, in my final year (CGPA: 9.63) .
+ I'm Pratham Shetty, and welcome to my GitHub page. I'm currently pursuing my B.Tech in Computer Science and Engineering at Manipal Institute of Technology, Manipal, in my final year (CGPA: 9.63) .
 
 I have 8 months of experience as a Software Development Engineer Intern at Western Digital, where I built C#-based hardware/software abstraction models for HDD components — including a SATA protocol model and contributions to a NAND Controller IP model — working closely with Firmware and Client teams to bridge hardware and software behavior. My journey in computer science has been driven by a curiosity about how software can model and interact with real-world systems, from low-level hardware protocols to full-stack applications like HealthHuddle, a patient support platform I built with a practicing psychiatrist, and CRZ, a land regulation app I developed for the Udupi District Deputy Commissioner's Office.
 
